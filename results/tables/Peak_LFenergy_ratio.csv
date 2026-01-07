@@ -1,0 +1,13 @@
+genre,stage,peak,lf_ratio_<30Hz
+classical,preproc,0.994537,0.000003
+classical,raw,0.269531,0.000010
+electronic,preproc,1.000000,0.001727
+electronic,raw,1.000000,0.004510
+hiphop,preproc,1.000000,0.000118
+hiphop,raw,1.000000,0.000443
+jazz,preproc,0.999969,0.000010
+jazz,raw,0.818848,0.000029
+pop,preproc,0.979126,0.000016
+pop,raw,0.999969,0.000044
+rock,preproc,0.999969,0.000023
+rock,raw,0.999969,0.000116
