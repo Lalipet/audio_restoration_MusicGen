@@ -18,7 +18,7 @@ The bandwidth extension stage is included as an exploratory experiment to assess
 - `code/`: Jupyter notebook containing the full generation and restoration pipeline
 - `results/audio/`: Representative audio samples (raw, denoised, BWE)
 - `results/spectrograms/`: Qualitative spectrogram visualizations
-- `results/tables/`: Quantitative results and MOS scores
+- `results/tables/`: Quantitative results
 
 ## Reproducibility
 Due to the stochastic nature of generative audio models and non-deterministic GPU operations, exact waveform-level reproducibility is not expected.
